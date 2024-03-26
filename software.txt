@@ -2,7 +2,7 @@ formats,samtools=1.17 bcftools=1.17 picard-slim=3.0.0
 qc,samtools=1.17 fastqc=0.12.1 multiqc=1.15
 snp-phylogeny,fastqc=0.12.1 multiqc=1.15 fastp=0.23.4 rasusa=0.6.1 bwa=0.7.17 samtools=1.17 bcftools=1.17 snp-sites=2.5.1 gubbins iqtree=2.2.3 ete3=3.1.3 figtree=1.4.4 assembly-stats=1.0.1 pysam biopython
 pangenome,roary=3.13.0 prokka=1.14.6 fasttree=2.1.11 assembly-stats=1.0.1 spades=3.15.5
-long-read,flye=2.9.2,nanoplot=1.41.6,polypolish=0.5.0,bwa=0.7.17
+long-read,flye=2.9.2 nanoplot=1.41.6 polypolish=0.5.0 bwa=0.7.17
 bandage,bandage=0.8.1,unicycler=0.5.0
 trycycler,trycycler=0.5.4
 raxml-ng-1.1.0,raxml-ng=1.1.0
