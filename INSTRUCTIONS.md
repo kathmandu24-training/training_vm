@@ -80,9 +80,9 @@ https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
 
     sudo apt-get install tree
 
-### 16) Install Excel equivalent (LibreOffice), slack
+### 16) Install Excel/Powerpoint equivalent (LibreOffice)
 
-### 17) Add terminal, screenshot, slack, Excel and firefox to the menu
+### 17) Add terminal, screenshot, Excel/Powerpoint and firefox to the menu
 
 ### 18) Create an additional user bioinf
 
