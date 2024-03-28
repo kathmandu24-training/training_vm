@@ -1,3 +1,3 @@
 # training_vm
 
-Instructions for building the training VM
+These are instructions for building the training VM
