@@ -39,13 +39,13 @@ conda init bash
 cd ~
 mkdir course_data
 cd course_data
-git clone https://github.com/aku24-training/linux.git
-git clone https://github.com/aku24-training/data_formats.git
-git clone https://github.com/aku24-training/snp-phylogeny.git
-git clone https://github.com/aku24-training/pangenome.git
-git clone https://github.com/aku24-training/bioinformatics_essentials.git
-git clone https://github.com/aku24-training/long_read_assembly.git
-git clone https://github.com/aku24-training/amr.git
+git clone https://github.com/kathmandu24-training/linux.git
+git clone https://github.com/kathmandu24-training/data_formats.git
+git clone https://github.com/kathmandu24-training/snp-phylogeny.git
+git clone https://github.com/kathmandu24-training/pangenome.git
+git clone https://github.com/kathmandu24-training/bioinformatics_essentials.git
+git clone https://github.com/kathmandu24-training/long_read_assembly.git
+git clone https://github.com/kathmandu24-training/amr.git
 
 echo "!!! Don't forget to set a permanent global variable on the server MINICONDA=$MINICONDA !!!"
 
