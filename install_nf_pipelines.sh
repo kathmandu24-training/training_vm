@@ -38,7 +38,7 @@ cd ..
 
 # Install bespoke scripts for running nf pipelines
 echo "Installing wrapper scripts for nextflow pipelines..."
-git clone https://github.com/aku24-training/nf_pipeline_scripts
+git clone https://github.com/kathmandu24-training/nf_pipeline_scripts
 cd nf_pipeline_scripts
 #cp run_fetch*.sh $MINICONDA/envs/nextflow-pipelines/bin
 cp run_bactmap*.sh $MINICONDA/envs/nextflow-pipelines/bin
