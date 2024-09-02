@@ -45,7 +45,7 @@ https://releases.ubuntu.com/focal/ubuntu-20.04.6-desktop-amd64.iso
 
 ### 9) Clone the repo for installing the software
 
-    git clone https://github.com/aku24-training/training_vm.git
+    git clone https://github.com/kathmandu24-training/training_vm.git
     cd training_vm
 
 ### 10) Install miniconda
